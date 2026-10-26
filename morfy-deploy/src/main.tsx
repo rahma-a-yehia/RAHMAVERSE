@@ -1,0 +1,1 @@
+import React from "react";import{createRoot}from"react-dom/client";import "./styles.css";createRoot(document.getElementById("root")!).render(<div style={{padding:32,textAlign:"center"}}><h1>MORFY’s Little Garden</h1><p>Garden preview</p></div>);
